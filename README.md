@@ -12,9 +12,9 @@ I expect to gain hands-on experience, collaborate with team mates, improve my te
 ## Learning Goals
 During this program, I hope to learn:
  
- .Data analysis
- .Data Visualization
- .Python programming
- .Git and Github
- .Problem solving
- .Team collaboration
+ data analysis
+ ,data Visualization
+ ,python programming
+ ,Git and Github
+ ,problem solving
+ , and team collaboration.
